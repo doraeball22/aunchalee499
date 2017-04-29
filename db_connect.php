@@ -1,6 +1,6 @@
 <?php 
 $servername = "127.0.0.1";
-$username = "bon";
+$username = "root";
 $password = "0848959172";
 $database = "recommendfit";
 
